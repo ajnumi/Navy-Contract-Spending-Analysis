@@ -4,7 +4,7 @@
 -- Source: USAspending.gov, Department of the Navy Prime Awards, FY2025
 -- ============================================================
 
-USE navy_contracts_db; -- replace with your actual schema name
+USE navy_contracts
 
 -- ------------------------------------------------------------
 -- 1. INITIAL PROFILING
